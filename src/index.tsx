@@ -18,7 +18,6 @@ export { default as ExpandableTextUpdater } from './ExpandableTextUpdater';
 export { default as ExpandableContainer } from './expandableContainer/ExpandableContainer';
 export { default as SearchBar } from './SearchBar';
 export { default as AlertWrap } from './AlertWrap';
-export { default as TimezonePicker } from './TimezonePicker';
 export { default as Tabs } from './Tabs';
 export { default as Copyright } from './Copyright';
 export { default as NavArrows } from './NavArrows';
